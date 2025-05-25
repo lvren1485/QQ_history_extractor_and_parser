@@ -1,0 +1,2 @@
+# QQ_history_extractor_and_parser
+解析QQ的mht格式聊天记录，导出图片和文字
